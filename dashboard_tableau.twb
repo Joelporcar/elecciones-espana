@@ -30,7 +30,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='final_master' name='textscan.1tzeoe31yn5mad1gkozco1fgovyn'>
-            <connection class='textscan' directory='C:/Users/maria/Documents/3 carrera/1 quatri/VIS/Tableau' filename='final_master.csv' password='' server='' workgroup-auth-mode='as-is' />
+            <connection class='textscan' directory='.' filename='elecciones_espana_1977_2023.csv' password='' server='' workgroup-auth-mode='as-is' />
           </named-connection>
         </named-connections>
         <relation connection='textscan.1tzeoe31yn5mad1gkozco1fgovyn' name='final_master.csv' table='[final_master#csv]' type='table'>
@@ -294,7 +294,7 @@
         </groupfilter>
       </group>
       <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
-        <connection access_mode='readonly' author-locale='es_ES' class='hyper' dbname='C:/Users/maria/AppData/Local/Temp/TableauTemp/#TableauTemp_1ms9d4k16nxlst1go1wsk1vxmolc.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='01/13/2026 07:23:57 PM' username='tableau_internal_user'>
+        <connection access_mode='readonly' author-locale='es_ES' class='hyper' dbname='Extract.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='01/13/2026 07:23:57 PM' username='tableau_internal_user'>
           <relation name='Extract' table='[Extract].[Extract]' type='table' />
           <metadata-records>
             <metadata-record class='column'>

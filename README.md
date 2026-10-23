@@ -14,7 +14,7 @@ El dashboard está construido en **R** utilizando `plotly` y `crosstalk` para m�
 | **Top 5 Partidos por Provincia** | Gráfico de barras interactivo con filtros desplegables por año y provincia. |
 
 
-## 🛠️ Tecnologías y Librerías
+## Tecnologías y Librerías
 
 | Área | Herramientas |
 |------|-------------|
@@ -24,7 +24,7 @@ El dashboard está construido en **R** utilizando `plotly` y `crosstalk` para m�
 | **Interactividad** | `plotly`, `crosstalk`, `htmltools` |
 
 
-## 🧹 Procesamiento de Datos (ETL)
+## Procesamiento de Datos (ETL)
 
 El proyecto incluye un exhaustivo proceso de limpieza y transformación:
 
@@ -46,7 +46,7 @@ Descarga o clona el repositorio y abre `dashboard_elecciones.html` en cualquier 
 
 > **Nota**: La descarga de datos y la generación del mapa animado pueden tardar varios minutos.
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 ├── dashboard_elecciones.Rmd            # Código fuente (ETL + visualización)
@@ -56,3 +56,8 @@ Descarga o clona el repositorio y abre `dashboard_elecciones.html` en cualquier 
 ├── codigos_provincias.RData            # Diccionario de datos para cruces geográficos
 └── README.md
 ```
+
+
+## Authors
+
+Joel Porcar Sales, Maria Porta & Robert Torres
