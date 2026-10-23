@@ -2,6 +2,8 @@
 
 > Dashboard interactivo que analiza más de 45 años de historia electoral española, desde las primeras elecciones democráticas hasta las de 2023.
 
+**[Ver Dashboard Interactivo en Vivo (GitHub Pages)](https://joelporcar.github.io/elecciones-espana/)**
+
 ## Características del Dashboard
 
 El dashboard está construido en **R** utilizando `plotly` y `crosstalk` para máxima interactividad, e incluye **4 paneles principales**:
